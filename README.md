@@ -4,6 +4,7 @@ Gestion des étudiants marocains et étrangers au Maroc.
 
 ## 🛠️ Languages
 * JAVA
+* PLSQL
 
 ## ⚙️ Technologies
 * JDBC
