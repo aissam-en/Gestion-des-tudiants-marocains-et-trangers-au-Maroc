@@ -1,0 +1,4 @@
+-First setup Oracle DB using:
+"DB setup_SQL PLSQL.sql"
+
+-Then Start with "admin_bourse.sql" and follow the Action#.
