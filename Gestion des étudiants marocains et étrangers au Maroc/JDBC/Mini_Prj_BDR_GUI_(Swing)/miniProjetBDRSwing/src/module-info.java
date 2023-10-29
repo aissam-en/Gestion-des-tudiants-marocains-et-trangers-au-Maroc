@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author BDRuser
+ *
+ */
+///module miniProjetBDRSwing {
+///}
