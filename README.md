@@ -1,5 +1,5 @@
 
-# Projet Base de Données Réparties:
+# Projet Base de Données Réparties
 Gestion des étudiants marocains et étrangers au Maroc.
 
 ## 🛠️ Languages
@@ -9,8 +9,6 @@ Gestion des étudiants marocains et étrangers au Maroc.
 ## ⚙️ Technologies
 * JDBC
 * SQLJ
-
-
 
 ## Base de données
 * Oracle.
